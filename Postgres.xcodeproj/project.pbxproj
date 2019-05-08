@@ -707,6 +707,8 @@
 				);
 				INFOPLIST_FILE = Postgres/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				POSTGRESAPP_BUILD_VERSION = 53;
+				POSTGRESAPP_SHORT_VERSION = 2.2.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.postgresapp.Postgres2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Postgres/Postgres-Bridging-Header.h";
@@ -729,6 +731,8 @@
 				);
 				INFOPLIST_FILE = Postgres/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				POSTGRESAPP_BUILD_VERSION = 53;
+				POSTGRESAPP_SHORT_VERSION = 2.2.3;
 				PRODUCT_BUNDLE_IDENTIFIER = com.postgresapp.Postgres2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Postgres/Postgres-Bridging-Header.h";
